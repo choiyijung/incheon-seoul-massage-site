@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incheon-seoul-massage.store/sitemap.xml
