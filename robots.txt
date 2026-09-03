@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://incheon-seoul-massage-store.netlify.app/sitemap.xml
+Sitemap: https://k-nationwidemassage1004.store/sitemap.xml
